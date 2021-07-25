@@ -30,7 +30,33 @@ We know that a marker drawing can be easily removed out of glass, so we are brav
 We can experiment with colors, we can add or remove lines, until being satisfied with the outcome.
 Once we are more or less satisied with the result of our artistic research, then we put a new glass rectangle onto our
 first picture and this way we persist our work, we save it from undesired loss.
-This very monent is called our `initial commit`.
+Let's call this very fixed picture `initial commit`.
 
-Далі ми продовжуємо малювати нові частини малюнка на нових прямокутничках, крізь які видно наш найперший малюнок і всю історію наскрізь.
-Таким чином...
+Далі ми продовжуємо малювати нові й нові частини малюнка на нових прямокутничках, крізь які видно наш перший малюнок і всю історію наскрізь.
+Малюнки доповнюють одне одного створюючи єдину картину. 
+Якщо якась частина нам не сподобалося у результуючому малюнку, то ми можемо її замалювати білою фарбою на наступних прямокутниках.
+
+Then we continue drawing new and new parts of the picture on new rectangles, through wich you can see our first picture 
+and all the history trasparently.
+The pictures supplement each other creating a united drawing. 
+If we don't like some part in the resulting drawing, then we can clean it using white marker on our next rectangles.
+
+У наступних уроках ми з Вами познайомимся з нашим навчальним репозиторієм. 
+Він схожий на ресурс "Інтерактивна карта УГКЦ (Української греко-католицької церкви)" https://map.ugcc.ua/, розроблений УГКЦ для ведення інформації про місцезнаходження парафій та
+інформації про них, зокрема розкладів Богослужінь. 
+
+In our next lessons we will get known to our study repository.
+It is similar to the "Interactive map of UGCC (Ukrainian Greek-Catholic Curch)" https://map.ugcc.ua/. It is developed by UGCC for tracking info about church locations and their descriptions, in particular, timetables of their holy Masses.
+
+Наш навчальний проект буде називатися "Timetable map" і він вміщуватиме інформацію про розташування 
+об'єктів і розклад подій, що там відбуваються. На відміну від https://map.ugcc.ua/, наш ресурс
+має відкритий код і будь-хто може його модифікувати за допомогою pull-request.
+
+Our educational project is named "Timetable map" and it will contain info about object locations and event timetables taking place there.
+Despite of the https://map.ugcc.ua/, our resource is open source and anyone can modify it using a pull-request.
+
+Про те, що таке "pull request" і про те, що вдосконалювати наш репозиторій зможе навіть особа без
+жодного знання програмування зі звичайного браузера йтиметься у наступних уроках.
+
+In our next lessons we will explain the "pull request" term and the thing that anyone can improve our repository even
+without any knowledge of programming using regular browser.

@@ -23,3 +23,14 @@ Git подібний на будиночок зі скляних прямоку�
 От коли ми більш-менш задоволені результатом наших творчих пошуків, то кладемо зверху на наш скляний прямокутничок з малюночком 
 новий скляний прямокутничок і цим ми фіксуємо нашу роботу, оберігаємо її від мимовільної втрати. 
 Саме це й називається нашим найпершим (initial) commit.
+
+Git is like a builing made of glass rectangles, put one on another.
+We take the first glass rectangle and draw a part of our picture on it.
+We know that a marker drawing can be easily removed out of glass, so we are brave to art.
+We can experiment with colors, we can add or remove lines, until being satisfied with the outcome.
+Once we are more or less satisied with the result of our artistic research, then we put a new glass rectangle onto our
+first picture and this way we persist our work, we save it from undesired loss.
+This very monent is called our `initial commit`.
+
+Далі ми продовжуємо малювати нові частини малюнка на нових прямокутничках, крізь які видно наш найперший малюнок і всю історію наскрізь.
+Таким чином...

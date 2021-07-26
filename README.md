@@ -1,5 +1,47 @@
 # git-book
 
+## Вступ. Intro.
+
+Минув майже рік з часу, як анонсував свій курс про Git "Fifteen minute git".
+Увесь цей час обдумував над аналогією з матеріального світу,
+яка би вдало описувала роботу системи контролю версій.
+Також хотів би у курсі показати, що Git може стати у пригоді не лише програмістам,
+але й авторам статей, книг, музики, векторної графіки і навіть при 
+написанні дошок оголошень в інтернеті чи елементарних сайтів-візиток.
+Причому все це можуть робити особи без жодного знання програмування.
+
+Almost a year passed since I announced my Git course "Fifteen minute git".
+During this time I searched for an analogy from the reality,
+which can suitably describe a version control system.
+Also, I would like to show in the course, that Git can be useful not only for
+programming, but also for articles, books, music, vector graphic and even
+for Info walls and landing webpages.
+Moreover, all these can be done by people without any programming insight.
+
+Саме таким чином пропоную писати неанглійські дописи на дотичні до IT теми. 
+Тобто абзац рідною, абзац англійською. Чому? Та тому, що саме англійська 
+термінологія є стандартною в цій галузі.
+
+Exactly this way I propose to write non-english texts about IT.
+I.e. A paragraph in native language, followed by an English paragraph.
+Why? It is because only English terminology is a standard in the field.
+
+Якщо Ви помічатимите помилки у моїй писанині будь-якою мовою, то сміливо 
+виправляйте мене коментарями у репозиторії https://github.com/fifteen-minute-git/git-book ,
+де оприлюднюватиму останню версію своїх нотатків.
+
+If you find any mistake in my writings in any language, then
+feel free to comment them on the https://github.com/fifteen-minute-git/git-book
+repository, where I will publish the latest version of my notes.
+
+Отож до справи! Пропоную до перегляду найперший "нульовий" урок 
+свого курсу https://youtu.be/18nW9bo7pFk 
+Приємного перегляду! Коментуйте, критикуйте, не соромтеся...
+
+So let's start! I propose you to watch the very first "zero" lesson of
+my course https://youtu.be/18nW9bo7pFk
+Enjoy watching! Please comment, criticise, don't hesitate...
+
 ## Заняття 0. Git як будиночок зі скляних малюночків, що кладуться один на оден (Lesson 0. Git as a building made of glass pictures put one on another)
 Нарешті... Ось минув майже рік роздумів. 
 Але врешті-решт таки придумав як саме організувати курс про систему контролю версій git.

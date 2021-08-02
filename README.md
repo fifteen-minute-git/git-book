@@ -102,3 +102,48 @@ In contrast to the https://map.ugcc.ua/, our resource is open source and anyone 
 
 In our next lessons we will explain the "pull request" term and the thing that anyone can improve our repository even
 without any knowledge of programming using regular browser.
+
+
+## Заняття 1. Виделка (форк). Найперші коміт та пул-ріквест (Lesson 1. Fork. The very first commit and pull request)
+
+Перше практичне заняття з курсу "Fifteen minute git" не вимагає жодного знання програмування,
+а результат буде видно всім у інтернеті! Після виконання цього завдання, можна сміливо написати
+у своєму резюме рядок: "Брав участь у розробці проекту з відкритим кодом" 
+із посиланням на https://psaltyr-u-wynogradnyku.firebaseapp.com/map.html
+
+The first practical lesson for "Fifteen minute git" does not require any programming insight,
+while its result will be visible for everyone on the web! After you finish this task, you can
+bravely put into your CV a line: "I took part in development of an opensource project"
+with a link to https://psaltyr-u-wynogradnyku.firebaseapp.com/map.html
+
+У чому ж саме полягає завдання? У тому, щоб добавити ще один об'єкт на карту 
+https://psaltyr-u-wynogradnyku.firebaseapp.com/map.html
+або уточнити інформацію про існуючі. Збагатимо цю карту важливими для нас місцями! 
+Це може бути церква (як у прикладі), парк, сквер, хороше кафе, місце, де ростуть квіти,
+виконують живу музику, займаються фізкультурою, читають прозу чи вірші.
+
+So what should you do? You have to add one more object to the 
+https://psaltyr-u-wynogradnyku.firebaseapp.com/map.html map or improve information about existing
+ones. Let's enrich this map with places of great importance to us!
+It can be a church (like in the example), a park, a square, a good caffe, a place where flowers grow,
+where a live music is played, where people do fitness, read prose or poetry.
+
+Зареєеструйтеся (якщо Ви цього ще не зробили) і увійдіть у github.
+Зробіть власну копію репозиторію https://github.com/fifteen-minute-git/psaltyr-u-wynogradnyku
+за допомогою кнопки-"виделки" (форк) і добавте інформацію про дорогий для Вас об'єкт у файл
+https://github.com/fifteen-minute-git/psaltyr-u-wynogradnyku/blob/master/churches/Kyiv/churches.html
+Для докладнішої інформації перегляньте відео https://www.youtube.com/watch?v=JwbYDxelp2Y
+
+Please sign up (if you didn't do it before) and sign in into github.
+Do your own copy of the https://github.com/fifteen-minute-git/psaltyr-u-wynogradnyku repository
+using a "fork" button and add info about an object of much importance to you into the
+https://github.com/fifteen-minute-git/psaltyr-u-wynogradnyku/blob/master/churches/Kyiv/churches.html
+file. Please watch the https://www.youtube.com/watch?v=JwbYDxelp2Y video for detailed info.
+
+Встановімо собі дедлайн до наступного понеділка (9 серпня).
+
+Let's put a deadline for us till next Monday (9 August).
+
+Чекаю Ваших пул-ріквестів!
+
+I'm looking forward to seeing your pull requests!
